@@ -17,9 +17,13 @@ Minecraft-crepper
 ZH-CN
 
 源码仓库：
+
 https://github.com/WindowsXAlpha/WinUX-OS/
+
 官网：
+
 winux.carrd.co
+
 我们的系统完全开源
 开源许可：Exstudio授予程序接受人以下权利，或称“自由”：
 * 以任何目的运行此程序的自由
@@ -31,9 +35,13 @@ winux.carrd.co
 EN-US
 
 Source warehouse:
+
 https://github.com/WindowsXAlpha/WinUX-OS/
+
 Official website:
+
 winux.carrd.co
+
 Our system is completely open source
 Open source license: exstudio grants program recipients the following rights, or "freedom":
 *Freedom to run this program for any purpose

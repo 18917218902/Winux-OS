@@ -17,7 +17,7 @@ Minecraft-crepper
 ZH-CN
 
 源码仓库：
-Https://github.com/WindowsXAlpha/Winux
+https://github.com/WindowsXAlpha/WinUX-OS/
 官网：
 winux.carrd.co
 我们的系统完全开源
@@ -31,7 +31,7 @@ winux.carrd.co
 EN-US
 
 Source warehouse:
-Https://github.com/WindowsXAlpha/Winux
+https://github.com/WindowsXAlpha/WinUX-OS/
 Official website:
 winux.carrd.co
 Our system is completely open source

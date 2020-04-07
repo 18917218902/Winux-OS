@@ -47,4 +47,4 @@ Open source license: exstudio grants program recipients the following rights, or
 *Freedom to run this program for any purpose
 *For the purpose of learning the working mechanism of the program, the freedom to modify the program (can get the source code is the premise)
 *Freedom to reissue copies
-*Improve this program.
+*Improve this program(can get the source code is the premise)

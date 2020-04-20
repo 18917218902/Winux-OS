@@ -18,11 +18,13 @@ ZH-CN
 
 源码仓库：
 
-https://github.com/WindowsXAlpha/WinUX-OS/
+https://github.com/WindowsXAlpha/Winux-OS/
 
 官网：
 
 winux.carrd.co
+
+winux.mysxl.cn
 
 我们的系统完全开源
 开源许可：Exstudio授予程序接受人以下权利，或称“自由”：

@@ -24,7 +24,7 @@ https://github.com/WindowsXAlpha/Winux-OS/
 
 winux.carrd.co
 
-winux.mysxl.cn
+winuxos.mysxl.cn
 
 我们的系统完全开源
 开源许可：Exstudio授予程序接受人以下权利，或称“自由”：
@@ -38,7 +38,7 @@ EN-US
 
 Source warehouse:
 
-https://github.com/WindowsXAlpha/WinUX-OS/
+https://github.com/WindowsXAlpha/Winux-OS/
 
 Official website:
 

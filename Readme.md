@@ -6,11 +6,9 @@ WindowsXAlpha，
 
 Exstudio，
 
-Minecraft-jiang，
+Yoily
 
-Minecraft-crepper
-
-官方网站:winux.carrd.co
+官方网站:winuxos.mysxl.cn
 
 开源许可条款:
 

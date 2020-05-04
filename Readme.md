@@ -42,6 +42,8 @@ Official website:
 
 winux.carrd.co
 
+winuxos.mysxl.cn
+
 Our system is completely open source
 
 Open source license: exstudio grants program recipients the following rights, or "freedom":

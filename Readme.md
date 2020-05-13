@@ -2,11 +2,17 @@
 
 参与制作者：
 
-WindowsXAlpha，
-
 Exstudio，
 
-Yoily
+WindowsXAlpha，
+
+Yoily，
+
+jmy,
+
+bule,
+
+xuanzai
 
 官方网站:winuxos.mysxl.cn
 
